@@ -1,0 +1,5 @@
+- 0f809c7: docs: Add FAQ section (Fouzia77, 28 minutes ago)
+- a8070be: Save my local changes before merging (Fouzia77, 66 minutes ago)
+- 0312c6f: updating main (Hanu Gupta, 4 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 4 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 4 days ago)
