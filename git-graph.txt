@@ -1,0 +1,14 @@
+* fcab3a9 (HEAD -> main, origin/main) docs: Add changelog
+* 0f809c7 (tag: v1.1.0, tag: v1.0.0) docs: Add FAQ section
+| * 6187766 (origin/feature/another-feature) docs: Update README
+| * 88572f9 (feature/another-feature) feat: Add test feature
+| * 73e7dc6 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+* a8070be Save my local changes before merging
+* 0312c6f (instructor/main, instructor/HEAD) updating main
+* fadfd24 Revise README for DevOps Simulator project
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+| * 02011a5 (instructor/dev, dev) updating dev
+|/  
+* ae630eb Initial commit
